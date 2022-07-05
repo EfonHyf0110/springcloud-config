@@ -1,1 +1,2 @@
-test :3344
+config:
+  info: "main branch,springcloud-config/config-test.yml version=1"
